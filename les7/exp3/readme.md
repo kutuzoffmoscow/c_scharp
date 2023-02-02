@@ -4,4 +4,4 @@
 
 1 4 7 2 5 9 2 3 8 4 2 4 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
 
-[Код]
+[Код](https://github.com/kutuzoffmoscow/c_scharp/blob/main/les7/exp3/Program.cs)
