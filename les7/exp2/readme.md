@@ -10,4 +10,4 @@
 
 17 -> такого числа в массиве нет
 
-[Код]
+[Код](https://github.com/kutuzoffmoscow/c_scharp/blob/main/les7/exp2/Program.cs)
